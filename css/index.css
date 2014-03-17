@@ -1,0 +1,783 @@
+html
+{
+	background: #C9C6C3 url("../images/eliza-bg-sepia2.jpg") repeat center top fixed;
+}
+
+#page
+{
+	z-index: 1;
+	width: 900px;
+	min-height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: 167px;
+	margin-bottom: 182px;
+}
+
+#u351
+{
+	z-index: 82;
+	width: 399px;
+	margin-left: 272px;
+	position: relative;
+}
+
+#pu123
+{
+	width: 0.01px;
+	left: -44px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u123
+{
+	z-index: 2;
+	width: 900px;
+	border-style: none;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -900px;
+	margin-top: 2px;
+	left: 44px;
+}
+
+#u357
+{
+	z-index: 3;
+	width: 989px;
+	margin-bottom: -208px;
+	position: relative;
+	margin-right: -989px;
+	margin-top: -260px;
+	left: -41px;
+}
+
+#u722
+{
+	z-index: 5;
+	width: 983px;
+	position: relative;
+	margin-right: -983px;
+	margin-top: 22px;
+}
+
+#u372-16
+{
+	z-index: 7;
+	width: 501px;
+	min-height: 314px;
+	font-family: Baskerville, Georgia, Cambria, Times, Times New Roman, serif;
+	text-align: justify;
+	line-height: 1.44;
+	position: relative;
+	margin-right: -501px;
+	margin-top: 140px;
+	left: 396px;
+}
+
+#u372
+{
+	font-size: 36px;
+}
+
+#u372-2
+{
+	font-size: 20px;
+}
+
+#u372-4  span,#u372-13  span /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.44;
+}
+
+#u372-4,#u372-13
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u372-7,#u372-8,#u372-10,#u372-11
+{
+	font-size: 15px;
+}
+
+#u217
+{
+	z-index: 23;
+	width: 265px;
+	position: relative;
+	margin-right: -265px;
+	margin-top: 140px;
+	left: 94px;
+}
+
+#slideshowu222
+{
+	z-index: 25;
+	width: 0.01px;
+	height: 0px;
+	padding-bottom: 497px;
+	position: relative;
+	margin-right: -808px;
+	margin-top: 599px;
+	left: 94px;
+}
+
+#u227
+{
+	position: absolute;
+	z-index: 26;
+	width: 808px;
+	height: 444px;
+	background-image: none;
+	border-style: none;
+	background-color: transparent;
+}
+
+#u1920
+{
+	z-index: 27;
+	width: 808px;
+	height: 444px;
+	border-style: none;
+	background-color: #F6F3F0;
+	margin-right: -808px;
+	position: relative;
+}
+
+#u1777
+{
+	z-index: 29;
+	width: 808px;
+	height: 444px;
+	border-style: none;
+	background-color: #F6F3F0;
+	margin-right: -808px;
+	position: relative;
+}
+
+#u1791
+{
+	z-index: 31;
+	width: 808px;
+	height: 444px;
+	border-style: none;
+	background-color: #F6F3F0;
+	margin-right: -808px;
+	position: relative;
+}
+
+#u1777_img,#u1791_img
+{
+	padding-left: 104px;
+	padding-right: 104px;
+	vertical-align: top;
+}
+
+#u1805
+{
+	z-index: 33;
+	width: 808px;
+	height: 444px;
+	border-style: none;
+	background-color: #F6F3F0;
+	margin-right: -808px;
+	position: relative;
+}
+
+#u1819
+{
+	z-index: 35;
+	width: 808px;
+	height: 444px;
+	border-style: none;
+	background-color: #F6F3F0;
+	margin-right: -808px;
+	position: relative;
+}
+
+#u1819_img
+{
+	padding-left: 154px;
+	padding-right: 154px;
+	padding-bottom: 11px;
+	vertical-align: top;
+}
+
+#u1963
+{
+	z-index: 37;
+	width: 808px;
+	height: 444px;
+	border-style: none;
+	background-color: #F6F3F0;
+	margin-right: -808px;
+	position: relative;
+}
+
+#u1805_img,#u1963_img
+{
+	padding-left: 154px;
+	padding-right: 154px;
+	vertical-align: top;
+}
+
+#u746
+{
+	z-index: 39;
+	width: 808px;
+	height: 444px;
+	border-style: none;
+	background-color: #F6F3F0;
+	margin-right: -808px;
+	position: relative;
+}
+
+#u256
+{
+	position: absolute;
+	z-index: 41;
+	width: 163px;
+	top: 464px;
+}
+
+#u1927-4
+{
+	z-index: 42;
+	width: 163px;
+	min-height: 29px;
+	border-style: none;
+	background-color: transparent;
+	padding-top: 4px;
+	text-align: left;
+	font-size: 12px;
+	color: #39393A;
+	font-family: Baskerville, Georgia, Cambria, Times, Times New Roman, serif;
+	margin-right: -163px;
+	position: relative;
+}
+
+#u1783-4
+{
+	z-index: 46;
+	width: 163px;
+	min-height: 29px;
+	border-style: none;
+	background-color: transparent;
+	padding-top: 4px;
+	text-align: left;
+	font-size: 12px;
+	color: #39393A;
+	font-family: Baskerville, Georgia, Cambria, Times, Times New Roman, serif;
+	margin-right: -163px;
+	position: relative;
+}
+
+#u1797-4
+{
+	z-index: 50;
+	width: 163px;
+	min-height: 29px;
+	border-style: none;
+	background-color: transparent;
+	padding-top: 4px;
+	text-align: left;
+	font-size: 12px;
+	color: #39393A;
+	font-family: Baskerville, Georgia, Cambria, Times, Times New Roman, serif;
+	margin-right: -163px;
+	position: relative;
+}
+
+#u1811-4
+{
+	z-index: 54;
+	width: 163px;
+	min-height: 29px;
+	border-style: none;
+	background-color: transparent;
+	padding-top: 4px;
+	text-align: left;
+	font-size: 12px;
+	color: #39393A;
+	font-family: Baskerville, Georgia, Cambria, Times, Times New Roman, serif;
+	margin-right: -163px;
+	position: relative;
+}
+
+#u1825-4
+{
+	z-index: 58;
+	width: 163px;
+	min-height: 29px;
+	border-style: none;
+	background-color: transparent;
+	padding-top: 4px;
+	text-align: left;
+	font-size: 12px;
+	color: #39393A;
+	font-family: Baskerville, Georgia, Cambria, Times, Times New Roman, serif;
+	margin-right: -163px;
+	position: relative;
+}
+
+#u1969-4
+{
+	z-index: 62;
+	width: 163px;
+	min-height: 29px;
+	border-style: none;
+	background-color: transparent;
+	padding-top: 4px;
+	text-align: left;
+	font-size: 12px;
+	color: #39393A;
+	font-family: Baskerville, Georgia, Cambria, Times, Times New Roman, serif;
+	margin-right: -163px;
+	position: relative;
+}
+
+#u752-4
+{
+	z-index: 66;
+	width: 163px;
+	min-height: 29px;
+	border-style: none;
+	background-color: transparent;
+	padding-top: 4px;
+	text-align: left;
+	font-size: 12px;
+	color: #39393A;
+	font-family: Baskerville, Georgia, Cambria, Times, Times New Roman, serif;
+	margin-right: -163px;
+	position: relative;
+}
+
+#u254-4
+{
+	position: absolute;
+	z-index: 70;
+	width: 50px;
+	min-height: 12px;
+	padding: 6px;
+	text-align: right;
+	font-size: 10px;
+	color: #39393A;
+	font-weight: bold;
+	font-family: Century Gothic, Apple Gothic, sans-serif;
+	top: 464px;
+	left: 696px;
+}
+
+#u253-4
+{
+	position: absolute;
+	z-index: 74;
+	width: 40px;
+	min-height: 12px;
+	padding: 6px;
+	text-align: right;
+	font-size: 10px;
+	color: #39393A;
+	font-weight: bold;
+	font-family: Century Gothic, Apple Gothic, sans-serif;
+	top: 464px;
+	left: 756px;
+}
+
+#u225-4
+{
+	position: absolute;
+	z-index: 78;
+	width: 33px;
+	min-height: 16px;
+	padding: 6px;
+	text-align: center;
+	font-size: 10px;
+	color: #39393A;
+	font-weight: bold;
+	font-family: Century Gothic, Apple Gothic, sans-serif;
+	top: 464px;
+	left: 371px;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background-image: url("../images/loading.gif");
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+#u480
+{
+	z-index: 86;
+	width: 25px;
+	position: relative;
+	margin-right: -25px;
+	left: 30px;
+}
+
+#u495
+{
+	z-index: 88;
+	width: 82px;
+	position: relative;
+	margin-right: -82px;
+	margin-top: 81px;
+	left: 944px;
+}
+
+#menuu583
+{
+	z-index: 90;
+	width: 679px;
+	position: relative;
+	margin-right: -679px;
+	margin-top: 29px;
+	left: 154px;
+}
+
+#u661
+{
+	width: 94px;
+	min-height: 24px;
+	margin-right: -94px;
+	position: relative;
+}
+
+#u662
+{
+	width: 94px;
+	border-style: none;
+	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	padding-bottom: 8px;
+	position: relative;
+}
+
+#u665-4
+{
+	width: 52px;
+	min-height: 16px;
+	border-style: none;
+	background-color: transparent;
+	padding-left: 1px;
+	padding-right: 1px;
+	text-align: center;
+	letter-spacing: 5px;
+	font-size: 13px;
+	color: #000000;
+	font-weight: bold;
+	font-family: Century Gothic, Apple Gothic, sans-serif;
+	margin-right: -54px;
+	position: relative;
+	top: 4px;
+	left: 20px;
+}
+
+#u662:hover #u665-4
+{
+	background-color: transparent;
+}
+
+#u654
+{
+	width: 200px;
+	min-height: 24px;
+	margin-right: -200px;
+	position: relative;
+	left: 94px;
+}
+
+#u655
+{
+	width: 200px;
+	border-style: none;
+	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	padding-bottom: 8px;
+	position: relative;
+}
+
+#u662:hover,#u655:hover
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	border-width: 0px;
+}
+
+#u658-4
+{
+	width: 158px;
+	min-height: 16px;
+	border-style: none;
+	background-color: transparent;
+	padding-left: 1px;
+	padding-right: 1px;
+	text-align: center;
+	letter-spacing: 5px;
+	font-size: 13px;
+	color: #000000;
+	font-weight: bold;
+	font-family: Century Gothic, Apple Gothic, sans-serif;
+	margin-right: -160px;
+	position: relative;
+	top: 4px;
+	left: 20px;
+}
+
+#u662:active #u665-4,#u655:hover #u658-4
+{
+	background-color: transparent;
+}
+
+#u647
+{
+	width: 199px;
+	min-height: 24px;
+	margin-right: -199px;
+	position: relative;
+	left: 294px;
+}
+
+#u648
+{
+	width: 199px;
+	border-style: none;
+	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	padding-bottom: 8px;
+	position: relative;
+}
+
+#u648:hover
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	border-width: 0px;
+}
+
+#u651-4
+{
+	width: 157px;
+	min-height: 16px;
+	border-style: none;
+	background-color: transparent;
+	padding-left: 1px;
+	padding-right: 1px;
+	text-align: center;
+	letter-spacing: 5px;
+	font-size: 13px;
+	color: #000000;
+	font-weight: bold;
+	font-family: Century Gothic, Apple Gothic, sans-serif;
+	margin-right: -159px;
+	position: relative;
+	top: 4px;
+	left: 20px;
+}
+
+#u662.MuseMenuActive #u665-4,#u655:active #u658-4,#u648:hover #u651-4
+{
+	background-color: transparent;
+}
+
+#u668
+{
+	width: 186px;
+	min-height: 24px;
+	margin-right: -186px;
+	position: relative;
+	left: 493px;
+}
+
+#u671
+{
+	width: 186px;
+	border-style: none;
+	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	padding-bottom: 8px;
+	position: relative;
+}
+
+#u671:hover
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	border-width: 0px;
+}
+
+#u662:active,#u655:active,#u648:active,#u671:active
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+	border-width: 0px;
+}
+
+#u671.MuseMenuActive
+{
+	background-color: transparent;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	border-radius: 0px;
+}
+
+#u672-4
+{
+	width: 144px;
+	min-height: 16px;
+	border-style: none;
+	background-color: transparent;
+	padding-left: 1px;
+	padding-right: 1px;
+	text-align: center;
+	letter-spacing: 5px;
+	font-size: 13px;
+	color: #000000;
+	font-weight: bold;
+	font-family: Century Gothic, Apple Gothic, sans-serif;
+	margin-right: -146px;
+	position: relative;
+	top: 4px;
+	left: 20px;
+}
+
+#u655.MuseMenuActive #u658-4,#u648:active #u651-4,#u671:hover #u672-4
+{
+	background-color: transparent;
+}
+
+#u671:active #u672-4
+{
+	background-color: transparent;
+}
+
+#u671.MuseMenuActive #u672-4
+{
+	background-color: transparent;
+}
+
+#u662:active #u665-4 p,#u655:active #u658-4 p,#u648:active #u651-4 p,#u671:active #u672-4 p
+{
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#u662:hover #u665-4 p,#u662.MuseMenuActive #u665-4 p,#u655:hover #u658-4 p,#u655.MuseMenuActive #u658-4 p,#u648:hover #u651-4 p,#u671:hover #u672-4 p,#u671.MuseMenuActive #u672-4 p
+{
+	font-weight: normal;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.MenuItem /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+#u179-4
+{
+	z-index: 115;
+	width: 445px;
+	min-height: 23px;
+	padding-bottom: 14px;
+	letter-spacing: 5px;
+	font-style: italic;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Century Gothic, Apple Gothic, sans-serif;
+	position: relative;
+	margin-right: -445px;
+	margin-top: 563px;
+	left: 94px;
+}
+
+#u459-4
+{
+	z-index: 127;
+	width: 85px;
+	min-height: 29px;
+	text-align: left;
+	font-style: italic;
+	font-size: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -85px;
+	margin-top: 458px;
+	left: 396px;
+}
+
+#u490
+{
+	z-index: 131;
+	width: 810px;
+	margin-left: 48px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#pu716
+{
+	width: 0.01px;
+	margin-left: 47px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u716
+{
+	z-index: 84;
+	width: 166px;
+	position: relative;
+	margin-right: -166px;
+}
+
+#u351_img,#u357_img,#u722_img,#u217_img,#u1920_img,#u746_img,#u480_img,#u495_img,#u490_img,#u716_img
+{
+	vertical-align: top;
+}
+
+#u461-8
+{
+	z-index: 119;
+	width: 228px;
+	min-height: 47px;
+	text-align: right;
+	font-size: 11px;
+	color: #000000;
+	font-family: Baskerville, Georgia, Cambria, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -228px;
+	margin-top: 10px;
+	left: 578px;
+}
+
+body
+{
+	padding-bottom: 120px;
+}
+
