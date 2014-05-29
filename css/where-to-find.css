@@ -53,7 +53,7 @@ html
 	z-index: 48;
 	width: 810px;
 	margin-left: 48px;
-	margin-top: 509px;
+	margin-top: 630px;
 	position: relative;
 }
 
@@ -386,31 +386,42 @@ html
 	margin-top: 553px;
 }
 
-#u1496-2,#u1496-17
+#u1496-2,#u1496-17,.where-name
 {
 	font-size: 30px;
 	font-weight: normal;
 }
 
-#u1496-9,#u1496-24
+.where-name a {
+	font-size: 30px;
+	font-weight: normal;
+	text-decoration: none;		
+}
+
+#u1496-9,#u1496-24,.where-phone
 {
 	font-size: 12px;
 	font-weight: normal;
 }
 
-#u1496-4,#u1496-6,#u1496-7,#u1496-10,#u1496-14,#u1496-15,#u1496-19,#u1496-21,#u1496-22,#u1496-25
+#u1496-4,#u1496-6,#u1496-7,#u1496-10,#u1496-14,#u1496-15,#u1496-19,#u1496-21,#u1496-22,#u1496-25,.where-address
 {
 	font-size: 16px;
 	font-weight: normal;
 }
 
-#u1496-13,#u1496-28
+#u1496-13,#u1496-28,
 {
 	font-size: 16px;
 	font-weight: bold;
 }
 
-#u1539:hover #u1541-4 p,#u1539.MuseMenuActive #u1541-4 p,#u1500:hover #u1501-4 p,#u1500.MuseMenuActive #u1501-4 p,#u1523:hover #u1526-4 p,#u1523.MuseMenuActive #u1526-4 p,#u1532:hover #u1533-4 p,#u1532.MuseMenuActive #u1533-4 p,#u1496-11,#u1496-26
+.where-link {
+	font-size: 16px;
+	font-weight: normal;
+}
+
+#u1539:hover #u1541-4 p,#u1539.MuseMenuActive #u1541-4 p,#u1500:hover #u1501-4 p,#u1500.MuseMenuActive #u1501-4 p,#u1523:hover #u1526-4 p,#u1523.MuseMenuActive #u1526-4 p,#u1532:hover #u1533-4 p,#u1532.MuseMenuActive #u1533-4 p,#u1496-11,#u1496-26,
 {
 	font-weight: normal;
 }
